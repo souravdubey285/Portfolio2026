@@ -174,7 +174,7 @@ export default function SouravPortfolio() {
                   LinkedIn
                 </a>
                 <a
-                  href="https://github.com/sourav2850"
+                  href="https://github.com/souravdubey285"
                   target="_blank"
                   rel="noreferrer"
                   className="rounded-2xl border border-fuchsia-400/30 bg-fuchsia-400/10 px-5 py-3 text-sm font-medium text-fuchsia-100 transition hover:bg-fuchsia-400/20"
